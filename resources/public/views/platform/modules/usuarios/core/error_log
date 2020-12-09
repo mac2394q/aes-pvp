@@ -1,0 +1,91 @@
+[16-Jun-2019 21:31:57 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta/app/providers/usuarioDao.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/registrarEmpleado.php on line 7
+[16-Jun-2019 21:31:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta/app/providers/usuarioDao.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/registrarEmpleado.php on line 7
+[16-Jun-2019 21:32:47 UTC] PHP Notice:  Undefined index: rol in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/registrarEmpleado.php on line 16
+[16-Jun-2019 21:32:47 UTC] PHP Notice:  Undefined variable: usuario in /home1/portalxn/public_html/aesbeta/app/providers/pdo/sesionDao.php on line 107
+[16-Jun-2019 21:32:47 UTC] PHP Notice:  Undefined variable: clave in /home1/portalxn/public_html/aesbeta/app/providers/pdo/sesionDao.php on line 108
+[16-Jun-2019 21:32:47 UTC] PHP Notice:  Undefined variable: rol in /home1/portalxn/public_html/aesbeta/app/providers/pdo/sesionDao.php on line 109
+[16-Jun-2019 21:32:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuarioDao::registrarUsuario() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/registrarEmpleado.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/registrarEmpleado.php on line 37
+[16-Jun-2019 21:35:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuarioDao::registrarUsuario() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/registrarEmpleado.php:37
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/registrarEmpleado.php on line 37
+[16-Jun-2019 21:52:05 UTC] PHP Notice:  Undefined variable: idsede in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/registrarEmpleado.php on line 62
+[16-Jun-2019 21:56:13 UTC] PHP Notice:  Undefined variable: idsede in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/registrarEmpleado.php on line 62
+[16-Jun-2019 21:56:33 UTC] PHP Notice:  Undefined variable: idsede in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/registrarEmpleado.php on line 62
+[16-Jun-2019 21:57:06 UTC] PHP Notice:  Undefined variable: idsede in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/registrarEmpleado.php on line 62
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: grupo in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 38
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: grupo in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 38
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: idempresa in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 41
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: razonSocial in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 43
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: nit in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 44
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: departamento in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 46
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: emailEmpresarial in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 49
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: representanteLegal in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 51
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: cargoRepresentante in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 52
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: telefonoRepresentante in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 53
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: sitioWeb in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 54
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: fechaCorteFacturacion in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 55
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: emailFacturacion in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 56
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: representanteSistemaGestion in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 59
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: cargoRepresentanteSistema in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 60
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: telefonoSistema in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 61
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: emailContacto in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 62
+[17-Jun-2019 05:39:03 UTC] PHP Notice:  Undefined index: idempresa in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 72
+[17-Jun-2019 05:52:26 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta/app/providers/usuarioDao.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 6
+[17-Jun-2019 05:52:26 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta/app/providers/usuarioDao.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 6
+[17-Jun-2019 05:52:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method usuarioDao::modificarEmpleado() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php:27
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/modificarEmpleado.php on line 27
+[17-Jun-2019 07:04:03 UTC] PHP Notice:  Undefined index: idempleado in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/autentificacion.php on line 7
+[17-Jun-2019 07:04:18 UTC] PHP Notice:  Undefined index: idempleado in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/autentificacion.php on line 7
+[17-Jun-2019 07:05:23 UTC] PHP Notice:  Undefined index: idempleado in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/autentificacion.php on line 7
+[17-Jun-2019 07:09:00 UTC] PHP Fatal error:  Uncaught Error: Class 'empresaController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/autentificacion.php:17
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/autentificacion.php on line 17
+[14-Jul-2019 19:04:29 UTC] PHP Notice:  Undefined variable: idusuario in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/registrarEmpleado.php on line 40
+[04-Oct-2019 15:04:14 UTC] PHP Warning:  copy(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/registrarEmpleado.php on line 52
+[04-Oct-2019 15:04:14 UTC] PHP Warning:  copy(http://aesbeta.ml/vendor/aes/notfound.png): failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/registrarEmpleado.php on line 52
+[07-Oct-2019 11:06:42 UTC] PHP Fatal error:  Uncaught Error: Class 'usuarioController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/buscarUsuarios.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/buscarUsuarios.php on line 7
+[07-Oct-2019 11:07:00 UTC] PHP Fatal error:  Uncaught Error: Class 'usuarioController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/buscarUsuarios.php:7
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/buscarUsuarios.php on line 7
+[08-Oct-2019 02:50:42 UTC] PHP Warning:  move_uploaded_file(/home1/portalxn/public_html/aesbeta/documents/fotosPerfilEmpleados/371/371.jpg): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/actualizarLogo.php on line 10
+[08-Oct-2019 02:50:42 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phph1kAEx' to '/home1/portalxn/public_html/aesbeta/documents/fotosPerfilEmpleados/371/371.jpg' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/actualizarLogo.php on line 10
+[08-Oct-2019 02:52:57 UTC] PHP Warning:  move_uploaded_file(/home1/portalxn/public_html/aesbeta/documents/fotosPerfilEmpleados/371/371.jpg): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/actualizarLogo.php on line 10
+[08-Oct-2019 02:52:57 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpMuuD4H' to '/home1/portalxn/public_html/aesbeta/documents/fotosPerfilEmpleados/371/371.jpg' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/actualizarLogo.php on line 10
+[08-Oct-2019 02:53:24 UTC] PHP Warning:  move_uploaded_file(/home1/portalxn/public_html/aesbeta/documents/fotosPerfilEmpleados/371/371.jpg): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/actualizarLogo.php on line 10
+[08-Oct-2019 02:53:24 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpRrM100' to '/home1/portalxn/public_html/aesbeta/documents/fotosPerfilEmpleados/371/371.jpg' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/actualizarLogo.php on line 10
+[08-Oct-2019 02:54:31 UTC] PHP Warning:  move_uploaded_file(/home1/portalxn/public_html/aesbeta/documents/fotosPerfilEmpleados/371/371.jpg): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/actualizarLogo.php on line 10
+[08-Oct-2019 02:54:31 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpuonckj' to '/home1/portalxn/public_html/aesbeta/documents/fotosPerfilEmpleados/371/371.jpg' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/actualizarLogo.php on line 10
+[16-Oct-2019 08:11:29 UTC] PHP Notice:  Undefined index: idempresa in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/autentificacion.php on line 18
+[17-Oct-2019 18:09:47 UTC] PHP Notice:  Undefined index: rol in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/autentificacion.php on line 8
+[17-Oct-2019 18:10:02 UTC] PHP Notice:  Undefined index: rol in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/autentificacion.php on line 8
+[31-Oct-2019 01:19:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEstado_sesion() on bool in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php:185
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/buscarUsuarios.php(7): usuarioController::listadoEmpleadosBusqueda('TODOS', '')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 185
+[31-Oct-2019 01:20:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEstado_sesion() on bool in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php:185
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/buscarUsuarios.php(7): usuarioController::listadoEmpleadosBusqueda('TODOS', '')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 185
+[31-Oct-2019 01:27:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEstado_sesion() on bool in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php:185
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/buscarUsuarios.php(7): usuarioController::listadoEmpleadosBusqueda('TODOS', '')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 185
+[31-Oct-2019 01:32:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getEstado_sesion() on bool in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php:185
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/usuarios/core/buscarUsuarios.php(7): usuarioController::listadoEmpleadosBusqueda('TODOS', '')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/usuarioController.php on line 185

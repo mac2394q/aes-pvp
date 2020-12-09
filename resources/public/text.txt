@@ -1,0 +1,223 @@
+<section id="validation-scenario">
+            <div class="row">
+              <div class="col-12">
+                <div class="card">
+                  <div class="card-header">
+                    <h4 class="card-title">Listo general de empresas</h4>
+                    <a class="heading-elements-toggle"><i class="la la-ellipsis-v font-medium-3"></i></a>
+                    <div class="heading-elements">
+
+                      <ul class="list-inline mb-0">
+                        <li><button class="btn btn-primary btn-sm"><i class="ft-plus white"></i> New Task</button></li>
+                        <li><span class="dropdown">
+                            <button id="btnSearchDrop1" type="button" data-toggle="dropdown" aria-haspopup="true"
+                              aria-expanded="false"
+                              class="btn btn-warning btn-sm dropdown-toggle dropdown-menu-right"><i
+                                class="ft-download white"></i></button>
+                            <span aria-labelledby="btnSearchDrop1" class="dropdown-menu mt-1 dropdown-menu-right">
+                              <a href="#" class="dropdown-item"><i class="la la-calendar"></i> Due Date</a>
+                              <a href="#" class="dropdown-item"><i class="la la-random"></i> Priority </a>
+                              <a href="#" class="dropdown-item"><i class="la la-bar-chart"></i> Progress</a>
+                              <a href="#" class="dropdown-item"><i class="la la-user"></i> Assign to</a>
+                            </span>
+                          </span></li>
+                        <li><button class="btn btn-success btn-sm"><i class="ft-settings white"></i></button></li>
+                        <li><a data-action="collapse"><i class="ft-minus"></i></a></li>
+                        <li><a data-action="reload"><i class="ft-rotate-cw"></i></a></li>
+                        <li><a data-action="expand"><i class="ft-maximize"></i></a></li>
+                        <li><a data-action="close"><i class="ft-x"></i></a></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="card-content collapse show">
+                    <div class="card-body card-dashboard ">
+                      <p>descripcion texto xxx.</p>
+                      <div class="table-responsive">
+                        <div id="project-task-list_wrapper" class="dataTables_wrapper dt-bootstrap4">
+                          <div class="row">
+                            <div class="col-sm-12 col-md-2">
+                              <div class="form-group">
+                                <label for="projectinput6">Filtro:</label>
+                                <select id="projectinput6" name="filtro" class="form-control">
+                                  <option value="az">Az</option>
+                                  <option value="za">Za</option>
+                                </select>
+                              </div>
+                            </div>
+                            <div class="col-sm-12 col-md-3">
+                              <div class="form-group">
+                              <?php areaController::select_area_listado_general(); ?>
+                                <!-- <label for="projectinput6">Area tecnica:</label>
+                                <select id="projectinput6" name="budget" class="form-control">
+                                  <option value="0" selected="" disabled="">Budget</option>
+                                  <option value="less than 5000$">less than 5000$</option>
+                                  <option value="5000$ - 10000$">5000$ - 10000$</option>
+                                  <option value="10000$ - 20000$">10000$ - 20000$</option>
+                                  <option value="more than 20000$">more than 20000$</option>
+                                </select> -->
+                              </div>
+
+                            </div>
+
+                            <div class="col-sm-12 col-md-3">
+                              <div class="form-group">
+                                <label for="projectinput6">Estado:</label>
+                                <select id="projectinput6" name="estado" class="form-control">
+                                  <option value="ea">ACTIVAS</option>
+                                  <option value="ei">INACTIVA</option>
+                                  <option value="ep">PROGRAMADA</option>
+                                  <option value="eau">AUDITADA</option>
+                                </select>
+                              </div>
+                            </div>
+
+                            <div class="col-sm-12 col-md-3">
+                              <div class="form-group">
+                                <label for="projectinput6">Consulta:</label>
+                                <div class="input-group">
+                                  <input type="text" class="form-control" placeholder="Buscar . . ."
+                                    aria-describedby="button-addon2">
+                                  <div class="input-group-append">
+                                    <button class="btn btn-primary" type="button"><li class="fa fa-search"></li></button>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+
+                            <div class="row">
+                              <div class="col-sm-12">
+                                <table id="project-task-list"
+                                  class="table table-white-space table-bordered row-grouping display no-wrap icheck table-middle dataTable"
+                                  role="grid" aria-describedby="project-task-list_info" style="position: relative;">
+                                  <thead>
+                                    <tr role="row">
+
+                                      <th class="sorting_disabled" rowspan="1" colspan="1" aria-label="Task">NIT</th>
+                                      <th class="sorting_disabled" rowspan="1" colspan="1" aria-label="Priority">Nombre
+                                      </th>
+                                      <th class="sorting_disabled" rowspan="1" colspan="1" aria-label="Progress">Pais -
+                                        Ciudad
+                                      </th>
+                                      <th class="sorting_disabled" rowspan="1" colspan="1" aria-label="Owner">Sector
+                                      </th>
+                                      <th class="sorting_disabled" rowspan="1" colspan="1" aria-label="Actions">Estado
+                                      </th>
+                                      <th class="sorting_disabled" rowspan="1" colspan="1" aria-label="Actions">Accion
+                                      </th>
+                                    </tr>
+                                  </thead>
+                                  <tbody>
+                                    <tr class="group">
+                                      <td colspan="8">
+                                        <h6 class="mb-0">Basics Tasks &amp; Milestones in <span
+                                            class="text-bold-600">ABC
+                                            Project</span> on <em>30 Oct,
+                                            2017</em></h6>
+                                      </td>
+                                    </tr>
+                                    <tr role="row" class="odd">
+                                      <td class="reorder sorting_1">
+                                        <div class="icheckbox_square-blue" style="position: relative;"><input
+                                            type="checkbox" class="input-chk"
+                                            style="position: absolute; opacity: 0;"><ins class="iCheck-helper"
+                                            style="position: absolute; top: 0%; left: 0%; display: block; width: 100%; height: 100%; margin: 0px; padding: 0px; background: rgb(255, 255, 255); border: 0px; opacity: 0;"></ins>
+                                        </div>
+                                      </td>
+                                      <td>
+                                        <a href="#" class="text-bold-600">Complete the page header</a>
+                                        <p class="text-muted">Phasellus vel elit volutpat, egestas urna a, pharetra
+                                          nibh.
+                                        </p>
+                                      </td>
+
+                                      <td><span class="badge badge-default badge-danger">Critical</span></td>
+                                      <td>
+                                        <div class="progress progress-sm">
+                                          <div aria-valuemin="82" aria-valuemax="100"
+                                            class="progress-bar bg-gradient-x-success" role="progressbar"
+                                            style="width:82%" aria-valuenow="82"></div>
+                                        </div>
+                                      </td>
+
+                                      <td class="text-center">
+                                        <span class="avatar avatar-busy">
+                                          <img src="../../../app-assets/images/portrait/small/avatar-s-3.png"
+                                            alt="avatar" data-toggle="tooltip" data-placement="right"
+                                            title="John Doe"><i class=""></i>
+                                        </span>
+                                      </td>
+                                      <td>
+                                        <div class="dropdown">
+                                          <button id="btnSearchDrop2" type="button" data-toggle="dropdown"
+                                            aria-haspopup="true" aria-expanded="false"
+                                            class="btn btn-info dropdown-toggle"><i class="la la-cog"></i></button>
+                                          <div aria-labelledby="btnSearchDrop2"
+                                            class="dropdown-menu mt-1 dropdown-menu-right">
+                                            <a href="#" class="dropdown-item"><i class="ft-eye"></i> Open Task</a>
+                                            <a href="#" class="dropdown-item"><i class="ft-edit-2"></i> Edit Task</a>
+                                            <a href="#" class="dropdown-item"><i class="ft-check"></i> Complete Task</a>
+                                            <a href="#" class="dropdown-item"><i class="ft-upload"></i> Assign to</a>
+                                            <div class="dropdown-divider"></div>
+                                            <a href="#" class="dropdown-item"><i class="ft-trash"></i> Delete Task</a>
+                                          </div>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                    <tr role="row" class="even">
+                                      <td class="reorder sorting_1">
+                                        <div class="icheckbox_square-blue" style="position: relative;"><input
+                                            type="checkbox" class="input-chk"
+                                            style="position: absolute; opacity: 0;"><ins class="iCheck-helper"
+                                            style="position: absolute; top: 0%; left: 0%; display: block; width: 100%; height: 100%; margin: 0px; padding: 0px; background: rgb(255, 255, 255); border: 0px; opacity: 0;"></ins>
+                                        </div>
+                                      </td>
+                                      <td>
+                                        <a href="#" class="text-bold-600">Menu open issue on top</a>
+                                        <p class="text-muted">Proin varius libero at magna dignissim lacinia.</p>
+                                      </td>
+
+                                      <td><span class="badge badge-default badge-primary">Medium</span></td>
+                                      <td>
+                                        <div class="progress progress-sm">
+                                          <div aria-valuemin="30" aria-valuemax="100"
+                                            class="progress-bar bg-gradient-x-warning" role="progressbar"
+                                            style="width:32%" aria-valuenow="32"></div>
+                                        </div>
+                                      </td>
+
+                                      <td class="text-center">
+                                        <span class="avatar avatar-online">
+                                          <img src="../../../app-assets/images/portrait/small/avatar-s-5.png"
+                                            alt="avatar" data-placement="right" title="Peater Doe"><i></i>
+                                        </span>
+                                      </td>
+                                      <td>
+                                        <div class="dropdown">
+                                          <button id="btnSearchDrop3" type="button" data-toggle="dropdown"
+                                            aria-haspopup="true" aria-expanded="false"
+                                            class="btn btn-info dropdown-toggle"><i class="la la-cog"></i></button>
+                                          <div aria-labelledby="btnSearchDrop3"
+                                            class="dropdown-menu mt-1 dropdown-menu-right">
+                                            <a href="#" class="dropdown-item"><i class="ft-eye"></i> Open Task</a>
+                                            <a href="#" class="dropdown-item"><i class="ft-edit-2"></i> Edit Task</a>
+                                            <a href="#" class="dropdown-item"><i class="ft-check"></i> Complete Task</a>
+                                            <a href="#" class="dropdown-item"><i class="ft-upload"></i> Assign to</a>
+                                            <div class="dropdown-divider"></div>
+                                            <a href="#" class="dropdown-item"><i class="ft-trash"></i> Delete Task</a>
+                                          </div>
+                                        </div>
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </div>
+                            </div>
+
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+          </section>

@@ -1,0 +1,23 @@
+[10-Jul-2019 23:26:54 UTC] PHP Fatal error:  Uncaught Error: Class 'seguridadDao' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/seguridad/core/registrarValidacion.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/seguridad/core/registrarValidacion.php on line 20
+[10-Jul-2019 23:27:06 UTC] PHP Fatal error:  Uncaught Error: Class 'seguridadDao' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/seguridad/core/registrarValidacion.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/seguridad/core/registrarValidacion.php on line 20
+[10-Jul-2019 23:27:16 UTC] PHP Fatal error:  Uncaught Error: Class 'seguridadDao' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/seguridad/core/registrarValidacion.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/seguridad/core/registrarValidacion.php on line 20
+[10-Jul-2019 23:27:25 UTC] PHP Fatal error:  Uncaught Error: Class 'seguridadDao' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/seguridad/core/registrarValidacion.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/seguridad/core/registrarValidacion.php on line 20
+[10-Jul-2019 23:28:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method validacion_empresa::getIdsesion_usuario() in /home1/portalxn/public_html/aesbeta/app/providers/pdo/seguridadDao.php:129
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/seguridad/core/registrarValidacion.php(21): seguridadDao::registrarvalidacion_empresa(Object(validacion_empresa))
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/seguridadDao.php on line 129
+[12-Oct-2019 19:15:12 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/seguridad/core/registrarValidacion.php on line 30
+[17-Oct-2019 02:48:03 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/seguridad/core/registrarValidacion.php on line 30

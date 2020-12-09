@@ -1,0 +1,312 @@
+[19-Dec-2019 14:46:56 UTC] PHP Notice:  Undefined index: emp.nombre_empresa in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 71
+[19-Dec-2019 14:46:56 UTC] PHP Notice:  Undefined index: emp.nombre_empresa in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 71
+[19-Dec-2019 14:46:56 UTC] PHP Notice:  Undefined index: emp.nombre_empresa in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 71
+[19-Dec-2019 14:46:56 UTC] PHP Notice:  Undefined index: emp.nombre_empresa in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 71
+[19-Dec-2019 14:46:56 UTC] PHP Notice:  Undefined index: emp.nombre_empresa in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 71
+[19-Dec-2019 14:46:56 UTC] PHP Notice:  Undefined index: emp.nombre_empresa in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 71
+[19-Dec-2019 14:46:56 UTC] PHP Notice:  Undefined index: emp.nombre_empresa in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 71
+[19-Dec-2019 14:47:57 UTC] PHP Notice:  Undefined index: emp.nombre_empresa in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 71
+[19-Dec-2019 14:47:57 UTC] PHP Notice:  Undefined index: emp.nombre_empresa in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 71
+[19-Dec-2019 14:47:57 UTC] PHP Notice:  Undefined index: emp.nombre_empresa in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 71
+[19-Dec-2019 14:47:57 UTC] PHP Notice:  Undefined index: emp.nombre_empresa in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 71
+[19-Dec-2019 14:47:57 UTC] PHP Notice:  Undefined index: emp.nombre_empresa in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 71
+[19-Dec-2019 14:47:57 UTC] PHP Notice:  Undefined index: emp.nombre_empresa in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 71
+[19-Dec-2019 14:47:57 UTC] PHP Notice:  Undefined index: emp.nombre_empresa in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 71
+[20-Dec-2019 17:39:09 UTC] PHP Fatal error:  Uncaught Error: Class 'empresaDao' not found in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php:97
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/tablaClientes.php(9): informeController::tablaClientes('stor')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 97
+[27-Dec-2019 15:39:01 UTC] PHP Notice:  ob_end_clean(): failed to delete buffer. No buffer to delete in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 13
+[27-Dec-2019 15:39:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php:13) in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 14
+[27-Dec-2019 15:39:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php:13) in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 15
+[27-Dec-2019 15:44:18 UTC] PHP Notice:  Undefined index: fechai in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 9
+[27-Dec-2019 15:44:18 UTC] PHP Notice:  Undefined index: fechaf in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 9
+[27-Dec-2019 15:44:41 UTC] PHP Notice:  Undefined index: fechai in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 9
+[27-Dec-2019 15:44:41 UTC] PHP Notice:  Undefined index: fechaf in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 9
+[27-Dec-2019 18:11:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on array in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php:113
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php(15): informeController::listadoClientesCSV('2019-12-01', '2019-12-31')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 113
+[27-Dec-2019 18:38:38 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[27-Dec-2019 18:38:38 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[27-Dec-2019 18:38:38 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[27-Dec-2019 18:38:38 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[27-Dec-2019 18:38:38 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[27-Dec-2019 18:38:38 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[27-Dec-2019 18:38:38 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[27-Dec-2019 18:47:23 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:47:23 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:47:23 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:47:23 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:47:23 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:47:23 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:47:23 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:47:23 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:49:05 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:49:05 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:49:05 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:49:05 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:49:05 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:49:05 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:49:05 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:49:05 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:50:55 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:50:55 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:50:55 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:50:55 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:50:55 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:50:55 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:50:55 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:50:55 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:53:17 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:53:17 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:53:17 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:53:17 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:53:17 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:53:17 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:53:17 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:53:17 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:53:53 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:53:53 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:53:53 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:53:53 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:53:53 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:53:53 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:53:53 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:54:57 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:54:57 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:54:57 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:54:57 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:54:57 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:54:57 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:54:57 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:55:19 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:55:19 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:55:19 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:55:19 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:55:19 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:55:19 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[27-Dec-2019 18:55:19 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:01:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[05-Jan-2020 20:03:19 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:03:19 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:03:19 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:03:19 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:03:19 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:03:19 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:03:19 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:03:24 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:03:24 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:03:24 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:03:24 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:03:24 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:03:24 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:03:24 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:04:31 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:04:31 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:04:31 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:04:31 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:04:31 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:04:31 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:04:31 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:04:31 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:05:08 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:05:08 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:05:08 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:05:08 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:05:08 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:05:08 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:05:08 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:05:08 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:05:10 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:05:10 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:05:10 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:05:10 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:05:10 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:05:10 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:05:10 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:05:10 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:06:18 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:06:18 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:06:18 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:06:18 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:06:18 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:06:18 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:06:18 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:06:18 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 125
+[05-Jan-2020 20:09:00 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:09:00 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:09:00 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:09:00 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:09:00 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:09:00 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:09:00 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:09:00 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:12:12 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:12:12 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:12:12 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:12:12 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:12:12 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:12:12 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:12:12 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:12:12 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:13:37 UTC] PHP Parse error:  Invalid numeric literal in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 118
+[05-Jan-2020 20:13:39 UTC] PHP Parse error:  Invalid numeric literal in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 118
+[05-Jan-2020 20:22:10 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ',' or ';' in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 131
+[05-Jan-2020 20:28:59 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:28:59 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:28:59 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:28:59 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:28:59 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:28:59 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:28:59 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:28:59 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:29:26 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:29:26 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:29:26 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:29:26 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:29:26 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:29:26 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:29:26 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:29:26 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:29:30 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:29:30 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:29:30 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:29:30 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:29:30 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:29:30 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:29:30 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:29:30 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 119
+[05-Jan-2020 20:32:24 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 120
+[05-Jan-2020 20:32:24 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 120
+[05-Jan-2020 20:32:24 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 120
+[05-Jan-2020 20:32:24 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 120
+[05-Jan-2020 20:32:24 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 120
+[05-Jan-2020 20:32:24 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 120
+[05-Jan-2020 20:32:24 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 120
+[05-Jan-2020 20:32:24 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 120
+[05-Jan-2020 20:33:03 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:33:03 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:33:03 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:33:03 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:33:03 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:33:03 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:33:03 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:33:03 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:34:34 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:34:34 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:34:34 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:34:34 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:34:34 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:34:34 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:34:34 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:34:34 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:34:55 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:34:55 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:34:55 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:34:55 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:34:55 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:34:55 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:34:55 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:34:55 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:35:23 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:35:23 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:35:23 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:35:23 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:35:23 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:35:23 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:35:23 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:35:23 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 121
+[05-Jan-2020 20:39:58 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 122
+[05-Jan-2020 20:39:58 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 122
+[05-Jan-2020 20:39:58 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 122
+[05-Jan-2020 20:39:58 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 122
+[05-Jan-2020 20:39:58 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 122
+[05-Jan-2020 20:39:58 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 122
+[05-Jan-2020 20:39:58 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 122
+[05-Jan-2020 20:39:58 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php on line 122
+[05-Jan-2020 20:45:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[05-Jan-2020 20:45:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[05-Jan-2020 20:59:47 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 20:59:47 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 20:59:47 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 20:59:47 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 20:59:47 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 20:59:47 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 20:59:47 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 21:01:19 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 21:01:19 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 21:01:19 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 21:01:19 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 21:01:19 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 21:01:19 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 21:01:19 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 21:01:57 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 21:01:57 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 21:01:57 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 21:01:57 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 21:01:57 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 21:01:57 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 21:01:57 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 21:04:18 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 25
+[05-Jan-2020 21:04:18 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 25
+[05-Jan-2020 21:04:18 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 25
+[05-Jan-2020 21:04:18 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 25
+[05-Jan-2020 21:04:18 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 25
+[05-Jan-2020 21:04:18 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 25
+[05-Jan-2020 21:04:18 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 25
+[05-Jan-2020 21:59:13 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[05-Jan-2020 21:59:13 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[05-Jan-2020 21:59:13 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[05-Jan-2020 21:59:13 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[05-Jan-2020 21:59:13 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[05-Jan-2020 21:59:13 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[05-Jan-2020 21:59:13 UTC] PHP Warning:  fputcsv() expects parameter 2 to be array, string given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[05-Jan-2020 22:58:50 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[05-Jan-2020 22:58:50 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[05-Jan-2020 22:58:50 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[05-Jan-2020 22:58:50 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[05-Jan-2020 22:58:50 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[05-Jan-2020 22:58:50 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[05-Jan-2020 22:58:50 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 26
+[05-Jan-2020 23:00:41 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 23:00:41 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 23:00:41 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 23:00:41 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 23:00:41 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 23:00:41 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 23:00:41 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 27
+[05-Jan-2020 23:11:37 UTC] PHP Parse error:  syntax error, unexpected 'chr' (T_STRING) in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/generarCSV.php on line 24
+[10-Jan-2020 03:24:05 UTC] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home1/portalxn/public_html/aesbeta/app/providers/pdo/informeDao.php:67
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php(364): informeDao::porcentajeCumplimientoAuditoria('61')
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/trazabilidad.php(9): informeController::trazabilidad('2019-11-05', '2020-01-09', 'BOOM LOGISTICS ...')
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/informeDao.php on line 67
+[10-Jan-2020 03:28:30 UTC] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home1/portalxn/public_html/aesbeta/app/providers/pdo/informeDao.php:69
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php(364): informeDao::porcentajeCumplimientoAuditoria('61')
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/trazabilidad.php(9): informeController::trazabilidad('2019-11-05', '2020-01-09', 'BOOM LOGISTICS ...')
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/informeDao.php on line 69
+[10-Jan-2020 03:53:55 UTC] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home1/portalxn/public_html/aesbeta/app/providers/pdo/informeDao.php:67
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php(364): informeDao::porcentajeCumplimientoAuditoria('61')
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/trazabilidad.php(9): informeController::trazabilidad('2019-11-05', '2020-01-09', 'BOOM LOGISTICS ...')
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/informeDao.php on line 67
+[10-Jan-2020 03:58:28 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/providers/pdo/informeDao.php on line 62
+[10-Jan-2020 03:58:28 UTC] PHP Warning:  A non-numeric value encountered in /home1/portalxn/public_html/aesbeta/app/providers/pdo/informeDao.php on line 62
+[10-Jan-2020 03:58:28 UTC] PHP Fatal error:  Uncaught Error: Unsupported operand types in /home1/portalxn/public_html/aesbeta/app/providers/pdo/informeDao.php:67
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/informeController.php(364): informeDao::porcentajeCumplimientoAuditoria('61')
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/informes/core/trazabilidad.php(9): informeController::trazabilidad('2019-11-05', '2020-01-09', 'BOOM LOGISTICS ...')
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/informeDao.php on line 67
+[10-Jan-2020 04:01:42 UTC] PHP Notice:  Undefined index: numero in /home1/portalxn/public_html/aesbeta/app/providers/pdo/informeDao.php on line 64
+[10-Jan-2020 04:01:42 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/portalxn/public_html/aesbeta/app/providers/pdo/informeDao.php on line 64
+[10-Jan-2020 04:02:34 UTC] PHP Notice:  Undefined index: numero in /home1/portalxn/public_html/aesbeta/app/providers/pdo/informeDao.php on line 64
+[10-Jan-2020 04:02:34 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/portalxn/public_html/aesbeta/app/providers/pdo/informeDao.php on line 64
+[10-Jan-2020 04:04:05 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home1/portalxn/public_html/aesbeta/app/providers/pdo/informeDao.php on line 64

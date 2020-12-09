@@ -1,0 +1,1 @@
+[19-Sep-2020 06:13:45 America/Boise] PHP Warning:  session_start(): Cannot start session when headers already sent in /home1/portalxn/public_html/aesbeta/resources/public/correos/correos/Venta.php on line 3

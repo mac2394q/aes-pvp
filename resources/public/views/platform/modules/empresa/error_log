@@ -1,0 +1,408 @@
+[13-Apr-2019 10:58:43 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta/app/controllers/sedeController.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarSedes.php on line 10
+[13-Apr-2019 10:58:43 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta/app/controllers/sedeController.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarSedes.php on line 10
+[13-Apr-2019 10:58:44 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta/app/controllers/sedeController.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarSedes.php on line 10
+[13-Apr-2019 10:58:44 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta/app/controllers/sedeController.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarSedes.php on line 10
+[13-Apr-2019 05:58:58 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'sedeController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarSedes.php:124
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarSedes.php on line 124
+[13-Apr-2019 05:59:03 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'sedeController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarSedes.php:124
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarSedes.php on line 124
+[13-Apr-2019 06:13:06 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'sedeController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarSedes.php:124
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarSedes.php on line 124
+[13-Apr-2019 11:13:08 UTC] PHP Parse error:  syntax error, unexpected '/' in /home1/portalxn/public_html/aesbeta/app/controllers/sedeController.php on line 76
+[13-Apr-2019 11:13:10 UTC] PHP Parse error:  syntax error, unexpected '/' in /home1/portalxn/public_html/aesbeta/app/controllers/sedeController.php on line 76
+[13-Apr-2019 11:13:11 UTC] PHP Parse error:  syntax error, unexpected '/' in /home1/portalxn/public_html/aesbeta/app/controllers/sedeController.php on line 76
+[13-Apr-2019 06:42:13 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method sedeController::listadoSimpleGrupos() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/grupos.php:113
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/grupos.php on line 113
+[13-Apr-2019 06:42:51 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'empresaController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/grupos.php:113
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/grupos.php on line 113
+[13-Apr-2019 06:46:32 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'empresaController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/grupos.php:113
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/grupos.php on line 113
+[13-Apr-2019 11:51:52 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 160
+[04-May-2019 18:54:49 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/registrarEmpresa.php on line 540
+[04-May-2019 16:50:47 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'grupoController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFicha.php:499
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFicha.php on line 499
+[04-May-2019 16:52:15 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'grupoController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFicha.php:499
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFicha.php on line 499
+[29-May-2019 01:52:32 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getPais_empresa() on null in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarEmpresas.php:112
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarEmpresas.php on line 112
+[29-May-2019 01:52:50 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getPais_empresa() on null in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarEmpresas.php:112
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarEmpresas.php on line 112
+[29-May-2019 01:54:16 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getPais_empresa() on null in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarEmpresas.php:109
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarEmpresas.php on line 109
+[29-May-2019 01:54:23 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getPais_empresa() on null in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarEmpresas.php:109
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarEmpresas.php on line 109
+[29-May-2019 01:54:30 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getPais_empresa() on null in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarEmpresas.php:109
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarEmpresas.php on line 109
+[29-May-2019 06:54:56 UTC] PHP Parse error:  syntax error, unexpected '/', expecting end of file in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarEmpresas.php on line 114
+[29-May-2019 03:28:01 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'empresaController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarEmpresas.php:109
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarEmpresas.php on line 109
+[29-May-2019 08:43:40 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 366
+[02-Jun-2019 02:02:36 America/Bogota] PHP Recoverable fatal error:  Object of class certificado could not be converted to string in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 402
+[02-Jun-2019 02:03:57 America/Bogota] PHP Recoverable fatal error:  Object of class certificado could not be converted to string in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 403
+[02-Jun-2019 02:20:50 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method grupoDao::grupoId() in /home1/portalxn/public_html/aesbeta/app/controllers/grupoController.php:33
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFicha.php(489): grupoController::select_grupEmpresa('89')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/grupoController.php on line 33
+[02-Jun-2019 07:47:33 UTC] PHP Warning:  require_once(HELPERS_PATHrutas.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFicha.php on line 14
+[02-Jun-2019 07:47:33 UTC] PHP Fatal error:  require_once(): Failed opening required 'HELPERS_PATHrutas.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFicha.php on line 14
+[02-Jun-2019 07:47:49 UTC] PHP Warning:  require_once(HELPERS_PATHrutas.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFicha.php on line 14
+[02-Jun-2019 07:47:49 UTC] PHP Fatal error:  require_once(): Failed opening required 'HELPERS_PATHrutas.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFicha.php on line 14
+[02-Jun-2019 07:48:24 UTC] PHP Warning:  require_once(HELPERS_PATHrutas.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFicha.php on line 14
+[02-Jun-2019 07:48:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'HELPERS_PATHrutas.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFicha.php on line 14
+[02-Jun-2019 07:48:25 UTC] PHP Warning:  require_once(HELPERS_PATHrutas.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFicha.php on line 14
+[02-Jun-2019 07:48:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'HELPERS_PATHrutas.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFicha.php on line 14
+[02-Jun-2019 08:45:05 UTC] PHP Parse error:  syntax error, unexpected '" "' (T_CONSTANT_ENCAPSED_STRING) in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 164
+[02-Jun-2019 08:45:07 UTC] PHP Parse error:  syntax error, unexpected '" "' (T_CONSTANT_ENCAPSED_STRING) in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 164
+[02-Jun-2019 18:44:51 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 48
+[02-Jun-2019 14:25:57 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method empresa::getNombre_grupo_empresarial() in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php:261
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/grupos.php(114): empresaController::listadoSimpleGrupos('az', NULL, 'te', NULL)
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 261
+[02-Jun-2019 19:26:36 UTC] PHP Parse error:  syntax error, unexpected '$consulta' (T_VARIABLE), expecting ',' or ')' in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 229
+[02-Jun-2019 19:26:39 UTC] PHP Parse error:  syntax error, unexpected '$consulta' (T_VARIABLE), expecting ',' or ')' in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 229
+[02-Jun-2019 19:26:40 UTC] PHP Parse error:  syntax error, unexpected '$consulta' (T_VARIABLE), expecting ',' or ')' in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 229
+[02-Jun-2019 14:26:52 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method empresa::getNombre_grupo_empresarial() in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php:261
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/grupos.php(114): empresaController::listadoSimpleGrupos('az', NULL)
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 261
+[02-Jun-2019 14:27:13 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method empresa::getNombre_grupo_empresarial() in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php:261
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/grupos.php(114): empresaController::listadoSimpleGrupos('az', NULL)
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 261
+[02-Jun-2019 14:27:30 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method empresa::getNombre_grupo_empresarial() in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php:261
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/grupos.php(114): empresaController::listadoSimpleGrupos('az', NULL)
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 261
+[02-Jun-2019 14:28:46 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'grupo' not found in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php:20
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php(229): empresaDao::listadoGrupoEmpresarial('az', NULL)
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/grupos.php(114): empresaController::listadoSimpleGrupos('az', NULL)
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 20
+[02-Jun-2019 14:29:00 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method grupo::getIdempresarial() in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php:269
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/grupos.php(114): empresaController::listadoSimpleGrupos('az', NULL)
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 269
+[02-Jun-2019 14:29:34 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method grupo::getIdempresarial() in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php:269
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/grupos.php(114): empresaController::listadoSimpleGrupos('az', NULL)
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 269
+[02-Jun-2019 14:29:36 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method grupo::getIdempresarial() in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php:269
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/grupos.php(114): empresaController::listadoSimpleGrupos('az', NULL)
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 269
+[02-Jun-2019 14:30:02 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method grupo::getIdempresarial() in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php:269
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/grupos.php(114): empresaController::listadoSimpleGrupos('az', NULL)
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 269
+[05-Jun-2019 02:52:59 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'sesionController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php:20
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php on line 20
+[05-Jun-2019 02:53:15 America/Bogota] PHP Fatal error:  Uncaught Error: Function name must be a string in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php on line 21
+[05-Jun-2019 02:54:14 America/Bogota] PHP Fatal error:  Uncaught Error: Function name must be a string in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php on line 21
+[05-Jun-2019 02:54:36 America/Bogota] PHP Fatal error:  Uncaught Error: Function name must be a string in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php on line 21
+[05-Jun-2019 02:55:01 America/Bogota] PHP Fatal error:  Uncaught Error: Function name must be a string in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php on line 21
+[05-Jun-2019 07:56:17 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php on line 21
+[05-Jun-2019 07:56:18 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php on line 21
+[05-Jun-2019 02:56:32 America/Bogota] PHP Fatal error:  Uncaught Error: Method name must be a string in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php on line 21
+[05-Jun-2019 02:56:34 America/Bogota] PHP Fatal error:  Uncaught Error: Method name must be a string in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php:21
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php on line 21
+[05-Jun-2019 10:04:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php on line 207
+[05-Jun-2019 10:04:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php on line 207
+[05-Jun-2019 10:04:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php on line 207
+[05-Jun-2019 07:52:34 America/Bogota] PHP Parse error:  syntax error, unexpected '?>' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/global/inc/component/main_menu.php on line 9
+[05-Jun-2019 07:52:36 America/Bogota] PHP Parse error:  syntax error, unexpected '?>' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/global/inc/component/main_menu.php on line 9
+[05-Jun-2019 07:53:26 America/Bogota] PHP Parse error:  syntax error, unexpected '?>' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/global/inc/component/main_menu.php on line 10
+[05-Jun-2019 07:53:28 America/Bogota] PHP Parse error:  syntax error, unexpected '?>' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/global/inc/component/main_menu.php on line 10
+[05-Jun-2019 08:21:29 America/Bogota] PHP Parse error:  syntax error, unexpected '?>' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/global/inc/component/main_menu.php on line 10
+[05-Jun-2019 08:21:31 America/Bogota] PHP Parse error:  syntax error, unexpected '?>' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/global/inc/component/main_menu.php on line 10
+[05-Jun-2019 08:21:42 America/Bogota] PHP Parse error:  syntax error, unexpected '?>' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/global/inc/component/main_menu.php on line 9
+[05-Jun-2019 08:21:44 America/Bogota] PHP Parse error:  syntax error, unexpected '?>' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/global/inc/component/main_menu.php on line 9
+[09-Jun-2019 21:38:28 UTC] PHP Parse error:  syntax error, unexpected ';', expecting '[' in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 76
+[09-Jun-2019 21:38:41 UTC] PHP Parse error:  syntax error, unexpected ';', expecting '[' in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 76
+[09-Jun-2019 21:38:47 UTC] PHP Parse error:  syntax error, unexpected ';', expecting '[' in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 76
+[09-Jun-2019 22:24:11 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 279
+[09-Jun-2019 22:24:29 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 203
+[09-Jun-2019 22:24:33 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 127
+[10-Jun-2019 00:20:13 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 532
+[10-Jun-2019 12:12:12 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 378
+[10-Jun-2019 12:12:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 378
+[10-Jun-2019 14:20:05 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method empresaController::listadoGrupoPlantillaItem() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFichaGrupo.php:141
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFichaGrupo.php on line 141
+[10-Jun-2019 14:44:53 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method empresaController::grupoEmpresarial() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFichaGrupo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFichaGrupo.php on line 16
+[10-Jun-2019 14:44:55 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method empresaController::grupoEmpresarial() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFichaGrupo.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFichaGrupo.php on line 16
+[10-Jun-2019 14:49:03 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'grupoEmpresarial' not found in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php:344
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php(68): empresaDao::grupoEmpresarial(NULL)
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFichaGrupo.php(16): empresaController::grupoEmpresarial('1')
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 344
+[10-Jun-2019 14:52:24 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'empresaDao' not found in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php:68
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFichaGrupo.php(16): empresaController::grupoEmpresarial('1')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 68
+[10-Jun-2019 20:22:39 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'rutas' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/logoEmpresa.php:113
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/logoEmpresa.php on line 113
+[10-Jun-2019 20:22:43 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'rutas' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/logoEmpresa.php:113
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/logoEmpresa.php on line 113
+[11-Jun-2019 01:40:10 UTC] PHP Parse error:  syntax error, unexpected '$idempresa' (T_VARIABLE), expecting ',' or ';' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/logoEmpresa.php on line 52
+[11-Jun-2019 01:40:12 UTC] PHP Parse error:  syntax error, unexpected '$idempresa' (T_VARIABLE), expecting ',' or ';' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/logoEmpresa.php on line 52
+[11-Jun-2019 01:40:13 UTC] PHP Parse error:  syntax error, unexpected '$idempresa' (T_VARIABLE), expecting ',' or ';' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/logoEmpresa.php on line 52
+[11-Jun-2019 02:04:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFicha.php on line 106
+[11-Jun-2019 02:04:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFicha.php on line 106
+[18-Jun-2019 21:43:03 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function certificado::__construct(), 5 passed in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 886 and exactly 6 expected in /home1/portalxn/public_html/aesbeta/app/model/certificado.php:11
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php(886): certificado->__construct('3', '35', 'hernan', 'ceo', '13123')
+#1 /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php(697): empresaDao::contactosSede('35')
+#2 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFichaSede.php(219): empresaController::contactosSede('35')
+#3 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/model/certificado.php on line 11
+[18-Jun-2019 21:43:06 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function certificado::__construct(), 5 passed in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 886 and exactly 6 expected in /home1/portalxn/public_html/aesbeta/app/model/certificado.php:11
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php(886): certificado->__construct('3', '35', 'hernan', 'ceo', '13123')
+#1 /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php(697): empresaDao::contactosSede('35')
+#2 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFichaSede.php(219): empresaController::contactosSede('35')
+#3 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/model/certificado.php on line 11
+[18-Jun-2019 21:43:13 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function certificado::__construct(), 5 passed in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 886 and exactly 6 expected in /home1/portalxn/public_html/aesbeta/app/model/certificado.php:11
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php(886): certificado->__construct('3', '35', 'hernan', 'ceo', '13123')
+#1 /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php(697): empresaDao::contactosSede('35')
+#2 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFichaSede.php(219): empresaController::contactosSede('35')
+#3 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/model/certificado.php on line 11
+[18-Jun-2019 21:43:45 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'contacto_sede' not found in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php:881
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php(697): empresaDao::contactosSede('35')
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFichaSede.php(219): empresaController::contactosSede('35')
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 881
+[19-Jun-2019 02:44:03 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta/app/model/contacto_sede.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 8
+[19-Jun-2019 02:44:03 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta/app/model/contacto_sede.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 8
+[19-Jun-2019 02:44:05 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta/app/model/contacto_sede.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 8
+[19-Jun-2019 02:44:05 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta/app/model/contacto_sede.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 8
+[21-Jun-2019 12:05:04 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getNombre_contacto() on null in /home1/portalxn/public_html/aesbeta/app/controllers/sedeController.php:81
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarSedes.php(107): sedeController::listadoSimpleEmpresas('az', NULL, 'te', NULL, '101')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/sedeController.php on line 81
+[09-Jul-2019 10:44:18 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'validacion_empresa' not found in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php:48
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php(834): empresaDao::listadoDocumentosEmpresa('101', 'Empresa')
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php(140): empresaController::listadoDocumentosEmpresa('101', 'Empresa')
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 48
+[10-Jul-2019 19:30:09 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'seguridadController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php:158
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php on line 158
+[10-Jul-2019 19:30:32 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method seguridadController::listadoCertificados2() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php:159
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php on line 159
+[10-Jul-2019 19:32:39 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method validacion_empresa::getIdarea_tecnica() in /home1/portalxn/public_html/aesbeta/app/controllers/seguridadController.php:91
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php(159): seguridadController::listadoCertificados2('EMPRESA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/seguridadController.php on line 91
+[10-Jul-2019 19:32:51 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method validacion_empresa::getIdarea_tecnica() in /home1/portalxn/public_html/aesbeta/app/controllers/seguridadController.php:91
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php(159): seguridadController::listadoCertificados2('EMPRESA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/seguridadController.php on line 91
+[11-Jul-2019 00:10:47 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function empresaDao::listadoDocumentosEmpresa(), 1 passed in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 908 and exactly 2 expected in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php:37
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php(908): empresaDao::listadoDocumentosEmpresa('102')
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php(144): empresaController::listadoDocumentosEmpresaValidacion('102')
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 37
+[11-Jul-2019 00:35:00 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function validacion_empresa::__construct(), 3 passed in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 51 and exactly 5 expected in /home1/portalxn/public_html/aesbeta/app/model/validacion_empresa.php:10
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php(51): validacion_empresa->__construct('101', '7', 'tertertert')
+#1 /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php(908): empresaDao::listadoDocumentosEmpresa('101', 'EMPRESA')
+#2 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php(144): empresaController::listadoDocumentosEmpresaValidacion('101', 'EMPRESA')
+#3 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/model/validacion_empresa.php on line 10
+[11-Jul-2019 00:36:22 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function validacion_empresa::__construct(), 3 passed in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 51 and exactly 5 expected in /home1/portalxn/public_html/aesbeta/app/model/validacion_empresa.php:10
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php(51): validacion_empresa->__construct('101', '7', 'tertertert')
+#1 /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php(908): empresaDao::listadoDocumentosEmpresa('101', 'EMPRESA')
+#2 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php(144): empresaController::listadoDocumentosEmpresaValidacion('101', 'EMPRESA')
+#3 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/model/validacion_empresa.php on line 10
+[11-Jul-2019 05:37:11 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php on line 211
+[11-Jul-2019 05:37:12 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php on line 211
+[11-Jul-2019 00:37:24 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function validacion_empresa::__construct(), 3 passed in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 51 and exactly 5 expected in /home1/portalxn/public_html/aesbeta/app/model/validacion_empresa.php:10
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php(51): validacion_empresa->__construct('101', '7', 'tertertert')
+#1 /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php(908): empresaDao::listadoDocumentosEmpresa('101', 'EMPRESA')
+#2 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php(144): empresaController::listadoDocumentosEmpresaValidacion('101', 'EMPRESA')
+#3 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/model/validacion_empresa.php on line 10
+[11-Jul-2019 00:38:18 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function validacion_empresa::__construct(), 3 passed in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 51 and exactly 5 expected in /home1/portalxn/public_html/aesbeta/app/model/validacion_empresa.php:10
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php(51): validacion_empresa->__construct('101', '7', 'tertertert')
+#1 /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php(908): empresaDao::listadoDocumentosEmpresa('101', 'EMPRESA')
+#2 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php(144): empresaController::listadoDocumentosEmpresaValidacion('101', 'EMPRESA')
+#3 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/model/validacion_empresa.php on line 10
+[11-Jul-2019 00:38:32 America/Bogota] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function validacion_empresa::__construct(), 3 passed in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 51 and exactly 5 expected in /home1/portalxn/public_html/aesbeta/app/model/validacion_empresa.php:10
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php(51): validacion_empresa->__construct('101', '7', 'tertertert')
+#1 /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php(908): empresaDao::listadoDocumentosEmpresa('101', 'EMPRESA')
+#2 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php(144): empresaController::listadoDocumentosEmpresaValidacion('101', 'EMPRESA')
+#3 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/model/validacion_empresa.php on line 10
+[11-Jul-2019 00:39:26 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method asignacion_validacion_empresa::getid_validacion_empresa() in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php:912
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php(144): empresaController::listadoDocumentosEmpresaValidacion('101', 'EMPRESA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 912
+[11-Jul-2019 00:39:29 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method asignacion_validacion_empresa::getid_validacion_empresa() in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php:912
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php(144): empresaController::listadoDocumentosEmpresaValidacion('101', 'EMPRESA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 912
+[11-Jul-2019 01:56:01 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method asignacion_validacion_empresa::getid_validacion_empresa() in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php:912
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php(144): empresaController::listadoDocumentosEmpresaValidacion('101', 'EMPRESA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 912
+[11-Jul-2019 01:56:36 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method asignacion_validacion_empresa::getfecha_registro_validacion_empresa() in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php:923
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php(144): empresaController::listadoDocumentosEmpresaValidacion('101', 'EMPRESA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 923
+[11-Jul-2019 02:04:44 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function listadoDocumentosEmpresaValidacion() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php:211
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php on line 211
+[11-Jul-2019 02:04:59 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function listadoDocumentosEmpresaValidacion() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php:211
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/seguridad.php on line 211
+[14-Jul-2019 17:11:40 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function sedeController::objSede(), 0 passed in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFichaSede.php on line 15 and exactly 1 expected in /home1/portalxn/public_html/aesbeta/app/controllers/sedeController.php:9
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFichaSede.php(15): sedeController::objSede()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/sedeController.php on line 9
+[14-Jul-2019 17:11:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function sedeController::objSede(), 0 passed in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFichaSede.php on line 15 and exactly 1 expected in /home1/portalxn/public_html/aesbeta/app/controllers/sedeController.php:9
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/verFichaSede.php(15): sedeController::objSede()
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/sedeController.php on line 9
+[27-Jul-2019 16:06:36 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'usuarioController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/registrarEmpresa.php:149
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/registrarEmpresa.php on line 149
+[27-Jul-2019 16:06:39 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'usuarioController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/registrarEmpresa.php:149
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/registrarEmpresa.php on line 149
+[28-Jul-2019 16:01:39 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta/price/resources/public/views/platform/global/inc/platform/head.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/registrarEmpresa.php on line 9
+[28-Jul-2019 16:01:39 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta/price/resources/public/views/platform/global/inc/platform/head.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/registrarEmpresa.php on line 9
+[28-Jul-2019 16:03:41 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta/price/resources/public/views/platform/global/inc/platform/head.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/registrarEmpresa.php on line 9
+[28-Jul-2019 16:03:41 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta/price/resources/public/views/platform/global/inc/platform/head.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/registrarEmpresa.php on line 9
+[28-Jul-2019 16:03:45 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta/price/resources/public/views/platform/global/inc/platform/head.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/registrarEmpresa.php on line 9
+[28-Jul-2019 16:03:45 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta/price/resources/public/views/platform/global/inc/platform/head.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/registrarEmpresa.php on line 9
+[12-Sep-2019 15:27:45 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/asociarEmpresas.php on line 40
+[07-Oct-2019 06:47:19 America/Bogota] PHP Parse error:  syntax error, unexpected '!=' (T_IS_NOT_EQUAL) in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/global/inc/component/main_menu.php on line 16
+[10-Oct-2019 21:09:54 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'empresaController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/grupos.php:72
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/grupos.php on line 72
+[12-Oct-2019 02:50:12 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'auditoriasController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/auditoriasEmpresaAnclaAsociada.php:81
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/auditoriasEmpresaAnclaAsociada.php on line 81
+[12-Oct-2019 07:50:36 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta/app/controllers/auditoriaController.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/auditoriasEmpresaAnclaAsociada.php on line 11
+[12-Oct-2019 07:50:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta/app/controllers/auditoriaController.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/auditoriasEmpresaAnclaAsociada.php on line 11
+[15-Oct-2019 12:50:15 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEstado_sesion() on bool in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php:143
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php on line 143
+[15-Oct-2019 12:50:17 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEstado_sesion() on bool in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php:143
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php on line 143
+[15-Oct-2019 12:50:19 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEstado_sesion() on bool in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php:143
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/autentificacionEmpresa.php on line 143
+[17-Oct-2019 02:18:51 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta/app/lib/session.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/validacionEmpresa.php on line 8
+[17-Oct-2019 02:18:51 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta/app/lib/session.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/validacionEmpresa.php on line 8
+[17-Oct-2019 02:34:18 UTC] PHP Warning:  require_once(/home1/portalxn/public_html/aesbeta/app/lib/session.php): failed to open stream: No such file or directory in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/validacionEmpresa.php on line 8
+[17-Oct-2019 02:34:18 UTC] PHP Fatal error:  require_once(): Failed opening required '/home1/portalxn/public_html/aesbeta/app/lib/session.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/validacionEmpresa.php on line 8
+[19-Dec-2019 15:17:01 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/portalxn/public_html/aesbeta/app/controllers/empresaController.php on line 925
+[09-Jan-2020 23:24:48 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method auditoriasController::listadoRolAuditoriaAnclaAsociadaPropiasAsociada() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/auditoriasEmpresaAnclaAsociada.php:82
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/empresa/auditoriasEmpresaAnclaAsociada.php on line 82

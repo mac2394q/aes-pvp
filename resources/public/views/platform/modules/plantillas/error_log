@@ -1,0 +1,565 @@
+[04-May-2019 21:03:54 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'areaController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/index.php:116
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/index.php on line 116
+[28-May-2019 11:40:33 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdgrupo_plantilla() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:56
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/agregarElementos.php(230): plantillaController::listadoGrupoPlantilla('9')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 56
+[28-May-2019 11:40:35 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdgrupo_plantilla() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:56
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/agregarElementos.php(230): plantillaController::listadoGrupoPlantilla('9')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 56
+[28-May-2019 11:40:38 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdgrupo_plantilla() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:56
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/agregarElementos.php(230): plantillaController::listadoGrupoPlantilla('9')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 56
+[28-May-2019 11:40:42 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdgrupo_plantilla() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:56
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/agregarElementos.php(230): plantillaController::listadoGrupoPlantilla('9')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 56
+[28-May-2019 11:40:50 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdgrupo_plantilla() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:56
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/agregarElementos.php(230): plantillaController::listadoGrupoPlantilla('9')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 56
+[28-May-2019 11:41:02 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdgrupo_plantilla() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:56
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/agregarElementos.php(230): plantillaController::listadoGrupoPlantilla('9')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 56
+[28-May-2019 11:41:08 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdgrupo_plantilla() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:56
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/agregarElementos.php(230): plantillaController::listadoGrupoPlantilla('9')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 56
+[28-May-2019 11:48:09 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdgrupo_plantilla() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:56
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/agregarElementos.php(230): plantillaController::listadoGrupoPlantilla('9')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 56
+[28-May-2019 11:48:13 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method plantilla::getIdgrupo_plantilla() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:56
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/agregarElementos.php(230): plantillaController::listadoGrupoPlantilla('9')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 56
+[28-May-2019 17:35:21 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/agregarElementos.php on line 102
+[28-May-2019 17:44:04 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica_plantilla() on null in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php:93
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php on line 93
+[28-May-2019 17:44:07 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica_plantilla() on null in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php:93
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php on line 93
+[28-May-2019 17:44:42 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'plantillaController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php:15
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php on line 15
+[28-May-2019 18:21:19 America/Bogota] PHP Warning:  print_r() expects at least 1 parameter, 0 given in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 79
+[29-May-2019 03:26:19 UTC] PHP Parse error:  syntax error, unexpected '<' in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 100
+[29-May-2019 05:02:35 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 139
+[29-May-2019 05:07:52 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 136
+[29-May-2019 00:07:54 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'plantillaController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php on line 16
+[29-May-2019 05:10:22 UTC] PHP Parse error:  syntax error, unexpected 'card' (T_STRING), expecting ',' or ';' in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 109
+[29-May-2019 05:10:24 UTC] PHP Parse error:  syntax error, unexpected 'card' (T_STRING), expecting ',' or ';' in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 109
+[29-May-2019 05:10:25 UTC] PHP Parse error:  syntax error, unexpected 'card' (T_STRING), expecting ',' or ';' in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 109
+[29-May-2019 05:10:26 UTC] PHP Parse error:  syntax error, unexpected 'card' (T_STRING), expecting ',' or ';' in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 109
+[29-May-2019 05:17:49 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[29-May-2019 00:46:01 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'item_grupo_plantilla' not found in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php:154
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php(103): plantillaDao::listadoGrupoPlantillaItem('32')
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 154
+[29-May-2019 00:46:05 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'item_grupo_plantilla' not found in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php:154
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php(103): plantillaDao::listadoGrupoPlantillaItem('32')
+#1 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#2 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 154
+[29-May-2019 05:47:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 103
+[29-May-2019 05:49:07 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 151
+[29-May-2019 05:49:09 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 151
+[29-May-2019 05:49:11 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 151
+[29-May-2019 05:49:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 151
+[29-May-2019 05:50:49 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 142
+[29-May-2019 05:50:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 142
+[29-May-2019 05:50:56 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 142
+[29-May-2019 05:50:57 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 142
+[29-May-2019 06:00:16 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 118
+[29-May-2019 06:00:18 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 118
+[29-May-2019 06:00:19 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 118
+[29-May-2019 06:00:20 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 118
+[29-May-2019 06:00:29 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 131
+[29-May-2019 06:00:30 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 131
+[29-May-2019 06:00:31 UTC] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 131
+[30-May-2019 09:28:14 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 118
+[30-May-2019 09:28:14 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 151
+[30-May-2019 09:44:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 118
+[30-May-2019 09:44:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 151
+[30-May-2019 09:44:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 118
+[30-May-2019 09:44:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 151
+[30-May-2019 09:44:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 118
+[30-May-2019 09:44:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 151
+[30-May-2019 09:44:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 118
+[30-May-2019 09:44:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 151
+[30-May-2019 09:44:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 118
+[30-May-2019 09:44:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 151
+[30-May-2019 09:44:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 118
+[30-May-2019 09:44:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 151
+[05-Jun-2019 05:21:12 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'plantillaController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php on line 16
+[05-Jun-2019 05:33:00 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'plantillaController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php on line 16
+[05-Jun-2019 05:58:51 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEtiqueta_item_grupo_plantilla() on null in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:124
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 124
+[05-Jun-2019 05:58:59 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEtiqueta_item_grupo_plantilla() on null in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:124
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 124
+[05-Jun-2019 05:59:09 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEtiqueta_item_grupo_plantilla() on null in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:124
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 124
+[05-Jun-2019 06:00:02 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEtiqueta_item_grupo_plantilla() on null in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:124
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 124
+[05-Jun-2019 06:00:57 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEtiqueta_item_grupo_plantilla() on null in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:124
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 124
+[05-Jun-2019 06:01:06 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEtiqueta_grupo_plantilla() on null in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:138
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 138
+[05-Jun-2019 06:02:20 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEtiqueta_grupo_plantilla() on null in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:138
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 138
+[05-Jun-2019 06:02:24 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEtiqueta_grupo_plantilla() on null in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:138
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 138
+[05-Jun-2019 06:02:32 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEtiqueta_grupo_plantilla() on null in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:138
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 138
+[05-Jun-2019 06:02:46 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEtiqueta_grupo_plantilla() on null in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:138
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 138
+[05-Jun-2019 06:03:44 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEtiqueta_grupo_plantilla() on null in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:138
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 138
+[05-Jun-2019 06:05:01 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEtiqueta_grupo_plantilla() on null in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:138
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 138
+[05-Jun-2019 06:05:03 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEtiqueta_grupo_plantilla() on null in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:138
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 138
+[05-Jun-2019 06:05:39 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEtiqueta_item_grupo_plantilla() on null in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:124
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 124
+[05-Jun-2019 06:05:41 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEtiqueta_item_grupo_plantilla() on null in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:124
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 124
+[05-Jun-2019 06:05:51 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getEtiqueta_item_grupo_plantilla() on null in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:124
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(306): plantillaController::cargarPlantillaUI('33')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 124
+[05-Jun-2019 06:13:19 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 120
+[05-Jun-2019 06:13:19 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 152
+[05-Jun-2019 06:13:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 120
+[05-Jun-2019 06:13:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 152
+[05-Jun-2019 06:21:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:21:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 153
+[05-Jun-2019 06:25:28 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:25:28 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 154
+[05-Jun-2019 06:28:12 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:28:12 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 154
+[05-Jun-2019 06:28:12 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:28:12 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 154
+[05-Jun-2019 06:32:06 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'plantillaController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php on line 16
+[05-Jun-2019 06:32:09 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:32:09 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:35:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:35:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:35:59 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:35:59 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:37:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:37:08 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:37:47 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:37:47 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 11:38:13 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 72
+[05-Jun-2019 06:38:15 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:38:15 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:39:14 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:39:14 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:39:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 06:39:52 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 11:45:26 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 41
+[05-Jun-2019 11:50:07 UTC] PHP Parse error:  syntax error, unexpected '15' (T_LNUMBER), expecting ',' or ';' in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 156
+[05-Jun-2019 11:50:08 UTC] PHP Parse error:  syntax error, unexpected '15' (T_LNUMBER), expecting ',' or ';' in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 156
+[05-Jun-2019 11:50:11 UTC] PHP Parse error:  syntax error, unexpected '15' (T_LNUMBER), expecting ',' or ';' in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 156
+[05-Jun-2019 11:50:19 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 41
+[05-Jun-2019 11:50:44 UTC] PHP Parse error:  syntax error, unexpected '15' (T_LNUMBER), expecting ',' or ';' in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 156
+[05-Jun-2019 11:50:45 UTC] PHP Parse error:  syntax error, unexpected '15' (T_LNUMBER), expecting ',' or ';' in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 156
+[05-Jun-2019 11:12:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 11:12:22 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 153
+[05-Jun-2019 11:13:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 11:13:49 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 153
+[05-Jun-2019 11:14:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 11:14:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 153
+[05-Jun-2019 11:15:03 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 11:15:03 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 153
+[05-Jun-2019 11:15:18 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 121
+[05-Jun-2019 11:15:18 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 153
+[07-Jun-2019 14:31:33 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 111
+[07-Jun-2019 14:31:33 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 143
+[08-Jun-2019 10:48:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 71
+[09-Jun-2019 20:01:19 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 111
+[09-Jun-2019 20:01:19 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 143
+[09-Jun-2019 20:03:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 111
+[09-Jun-2019 20:03:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 143
+[09-Jun-2019 20:17:14 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 71
+[09-Jun-2019 20:24:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 111
+[09-Jun-2019 20:24:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 143
+[09-Jun-2019 20:24:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 111
+[09-Jun-2019 20:24:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 143
+[09-Jun-2019 20:24:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 111
+[09-Jun-2019 20:24:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 143
+[09-Jun-2019 20:29:02 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 111
+[09-Jun-2019 20:29:02 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 143
+[09-Jun-2019 20:32:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 111
+[09-Jun-2019 20:32:56 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 143
+[10-Jun-2019 03:45:27 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 295
+[10-Jun-2019 03:46:00 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 295
+[10-Jun-2019 03:46:05 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 295
+[10-Jun-2019 03:46:34 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 295
+[10-Jun-2019 03:47:12 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method grupoPlantilla::getIdplantilla_maestra() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:305
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(148): plantillaController::listadoPlantillasGrupo('39')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 305
+[10-Jun-2019 03:47:17 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method grupoPlantilla::getIdplantilla_maestra() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:305
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(148): plantillaController::listadoPlantillasGrupo('39')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 305
+[10-Jun-2019 03:53:30 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 295
+[10-Jun-2019 04:05:14 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'plantillaDao' not found in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:12
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(15): plantillaController::plantillaId('39')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 12
+[10-Jun-2019 04:05:50 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 343
+[10-Jun-2019 04:06:02 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 343
+[10-Jun-2019 04:16:00 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 295
+[10-Jun-2019 04:22:24 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method plantillaController::istadoGrupoPlantillaItem() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verCapitulos.php:152
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verCapitulos.php on line 152
+[10-Jun-2019 04:23:39 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method item_grupo_plantilla::getEtiqueta_grupo_plantilla() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:347
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verCapitulos.php(152): plantillaController::listadoGrupoPlantillaItem('53')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 347
+[10-Jun-2019 04:24:15 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method item_grupo_plantilla::getEtiqueta_grupo_plantilla() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:347
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verCapitulos.php(152): plantillaController::listadoGrupoPlantillaItem('53')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 347
+[10-Jun-2019 05:11:10 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method item_grupo_plantilla::getEtiqueta_grupo_plantilla() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:357
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verCapitulos.php(142): plantillaController::listadoGrupoPlantillaItem('53')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 357
+[10-Jun-2019 05:11:40 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method item_grupo_plantilla::getEtiqueta_grupo_plantilla() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:357
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verCapitulos.php(142): plantillaController::listadoGrupoPlantillaItem('53')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 357
+[10-Jun-2019 05:13:27 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method item_grupo_plantilla::getEtiqueta_grupo_plantilla() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:357
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verCapitulos.php(142): plantillaController::listadoGrupoPlantillaItem('53')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 357
+[10-Jun-2019 05:17:42 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method item_grupo_plantilla::getTitulo_conjunto() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:360
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verCapitulos.php(142): plantillaController::listadoGrupoPlantillaItem('53')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 360
+[10-Jun-2019 05:17:58 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method item_grupo_plantilla::getTitulo_conjunto() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php:360
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verCapitulos.php(142): plantillaController::listadoGrupoPlantillaItem('53')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 360
+[10-Jun-2019 05:37:20 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 351
+[10-Jun-2019 05:37:31 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 351
+[10-Jun-2019 09:20:32 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method item_grupo_plantilla::getIdarea_tecnica_plantilla() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verRubrica.php:93
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verRubrica.php on line 93
+[10-Jun-2019 09:25:58 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method item_grupo_plantilla::getIdarea_tecnica_plantilla() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verRubrica.php:93
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verRubrica.php on line 93
+[10-Jun-2019 10:51:15 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 327
+[10-Jun-2019 10:57:52 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica_plantilla() on null in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verGrupo.php:92
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verGrupo.php on line 92
+[10-Jun-2019 10:58:15 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica_plantilla() on null in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verGrupo.php:92
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verGrupo.php on line 92
+[10-Jun-2019 10:59:13 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method grupoPlantilla::getIdarea_tecnica_plantilla() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verGrupo.php:92
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verGrupo.php on line 92
+[10-Jun-2019 11:02:54 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined function getEtiqueta_grupo_plantilla() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verGrupo.php:113
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verGrupo.php on line 113
+[10-Jun-2019 11:32:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 331
+[10-Jun-2019 11:32:09 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 331
+[10-Jun-2019 11:33:24 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 331
+[10-Jun-2019 11:33:28 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 331
+[10-Jun-2019 11:38:57 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 331
+[10-Jun-2019 11:39:35 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 331
+[11-Jun-2019 13:10:47 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 378
+[11-Jun-2019 15:28:54 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 331
+[11-Jun-2019 15:29:03 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 331
+[18-Jun-2019 22:10:18 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 331
+[19-Jun-2019 03:14:06 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 144
+[19-Jun-2019 03:14:06 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 145
+[19-Jun-2019 03:14:06 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 146
+[19-Jun-2019 03:14:06 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 147
+[19-Jun-2019 03:14:06 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 148
+[18-Jun-2019 22:14:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 331
+[19-Jun-2019 03:14:26 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 144
+[19-Jun-2019 03:14:26 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 145
+[19-Jun-2019 03:14:26 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 146
+[19-Jun-2019 03:14:26 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 147
+[19-Jun-2019 03:14:26 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 148
+[19-Jun-2019 03:15:24 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 144
+[19-Jun-2019 03:15:24 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 145
+[19-Jun-2019 03:15:24 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 146
+[19-Jun-2019 03:15:24 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 147
+[19-Jun-2019 03:15:24 UTC] PHP Notice:  Undefined offset: 0 in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 148
+[19-Jun-2019 03:17:25 UTC] PHP Notice:  Undefined index: etiqueta_area_tecnica in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 164
+[18-Jun-2019 22:17:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 331
+[19-Jun-2019 03:17:39 UTC] PHP Notice:  Undefined index: etiqueta_area_tecnica in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 164
+[20-Jun-2019 14:22:07 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 14:22:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 14:22:25 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 14:23:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 14:24:38 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 14:25:04 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 14:25:41 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 14:27:55 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 14:28:11 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 14:28:26 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 14:36:46 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 14:36:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 14:40:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 14:40:51 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 14:41:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 14:41:40 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 14:42:59 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 14:44:10 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 15:09:57 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 333
+[20-Jun-2019 15:14:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 399
+[20-Jun-2019 15:14:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 399
+[20-Jun-2019 15:16:36 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 399
+[20-Jun-2019 15:17:01 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 399
+[11-Jul-2019 05:09:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 846
+[11-Jul-2019 00:10:36 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 489
+[11-Jul-2019 05:20:33 UTC] PHP Parse error:  syntax error, unexpected ';' in /home1/portalxn/public_html/aesbeta/app/providers/pdo/empresaDao.php on line 41
+[13-Jul-2019 09:57:29 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'plantillaController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verCapitulos.php:16
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verCapitulos.php on line 16
+[01-Aug-2019 02:02:37 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 495
+[14-Aug-2019 16:22:28 UTC] PHP Parse error:  syntax error, unexpected '.' in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 42
+[14-Aug-2019 16:22:36 UTC] PHP Parse error:  syntax error, unexpected '.' in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 42
+[14-Aug-2019 11:23:00 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method areaDao::rea_tecnicaNombre() in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:38
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 38
+[14-Aug-2019 11:23:18 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'areaController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/index.php:86
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/index.php on line 86
+[14-Aug-2019 11:23:20 America/Bogota] PHP Fatal error:  Uncaught Error: Call to undefined method areaDao::selectrea_tecnicaNombre() in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:38
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 38
+[14-Aug-2019 11:23:32 America/Bogota] PHP Fatal error:  Uncaught Error: Class 'areaController' not found in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php:119
+Stack trace:
+#0 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php on line 119
+[14-Aug-2019 11:24:30 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:42
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 42
+[14-Aug-2019 11:24:47 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:42
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 42
+[14-Aug-2019 11:24:59 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:42
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 42
+[14-Aug-2019 11:25:07 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:42
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 42
+[14-Aug-2019 11:25:38 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:42
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 42
+[14-Aug-2019 11:25:53 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:42
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 42
+[14-Aug-2019 11:25:54 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:42
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 42
+[14-Aug-2019 11:26:00 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:42
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 42
+[14-Aug-2019 11:28:24 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:43
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 43
+[14-Aug-2019 11:28:26 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:43
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 43
+[14-Aug-2019 11:28:27 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:43
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 43
+[14-Aug-2019 11:28:28 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:43
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 43
+[14-Aug-2019 11:28:29 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:43
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 43
+[14-Aug-2019 11:28:30 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:43
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 43
+[14-Aug-2019 11:28:30 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:43
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 43
+[14-Aug-2019 11:28:31 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:43
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 43
+[14-Aug-2019 11:28:31 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:43
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 43
+[14-Aug-2019 11:28:31 America/Bogota] PHP Fatal error:  Uncaught Error: Call to a member function getIdarea_tecnica() on null in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php:43
+Stack trace:
+#0 /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/verFicha.php(119): areaController::select_area_listado('ZONA FRANCA')
+#1 {main}
+  thrown in /home1/portalxn/public_html/aesbeta/app/controllers/areaController.php on line 43
+[14-Aug-2019 16:52:15 UTC] PHP Parse error:  syntax error, unexpected '':idplantilla_maestra_g' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home1/portalxn/public_html/aesbeta/app/providers/pdo/plantillaDao.php on line 37
+[07-Sep-2019 20:58:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 29
+[07-Sep-2019 21:01:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 29
+[07-Sep-2019 21:02:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 29
+[07-Sep-2019 21:04:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 29
+[12-Sep-2019 14:55:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 29
+[12-Sep-2019 14:59:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 29
+[12-Sep-2019 16:51:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 29
+[12-Sep-2019 16:51:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 29
+[24-Sep-2019 21:58:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 29
+[24-Sep-2019 21:58:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 29
+[24-Oct-2019 15:33:29 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 556
+[25-Oct-2019 02:19:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 29
+[25-Oct-2019 02:51:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 29
+[25-Oct-2019 03:36:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 29
+[25-Oct-2019 12:19:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 29
+[25-Oct-2019 20:27:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 30
+[25-Oct-2019 20:30:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 30
+[25-Oct-2019 20:31:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 30
+[25-Oct-2019 20:31:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 30
+[26-Oct-2019 13:13:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 30
+[26-Oct-2019 13:22:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 30
+[04-Dec-2019 18:09:14 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 556
+[04-Dec-2019 18:10:30 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 556
+[04-Dec-2019 18:11:16 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 556
+[11-May-2020 08:03:03 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/resources/public/views/platform/modules/plantillas/clonar.php on line 30
+[11-May-2020 12:42:06 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 562
+[30-Jun-2020 14:58:19 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 562
+[30-Jun-2020 14:58:21 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 562
+[30-Jun-2020 14:58:24 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 562
+[30-Jun-2020 15:17:02 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 562
+[30-Jun-2020 15:27:18 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 562
+[30-Jun-2020 15:34:44 America/Bogota] PHP Warning:  Invalid argument supplied for foreach() in /home1/portalxn/public_html/aesbeta/app/controllers/plantillaController.php on line 562
